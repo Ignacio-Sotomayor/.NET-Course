@@ -1,0 +1,15 @@
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\bin\Debug\net7.0\excercise1.exe
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\bin\Debug\net7.0\excercise1.deps.json
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\bin\Debug\net7.0\excercise1.runtimeconfig.json
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\bin\Debug\net7.0\excercise1.dll
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\bin\Debug\net7.0\excercise1.pdb
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\obj\Debug\net7.0\excercise1.csproj.AssemblyReference.cache
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\obj\Debug\net7.0\excercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\obj\Debug\net7.0\excercise1.AssemblyInfoInputs.cache
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\obj\Debug\net7.0\excercise1.AssemblyInfo.cs
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\obj\Debug\net7.0\excercise1.csproj.CoreCompileInputs.cache
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\obj\Debug\net7.0\excercise1.dll
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\obj\Debug\net7.0\refint\excercise1.dll
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\obj\Debug\net7.0\excercise1.pdb
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\obj\Debug\net7.0\excercise1.genruntimeconfig.cache
+C:\Users\nacho\C# .NET Curso\.NET-Course\Arrays-Iterators\excercise1\obj\Debug\net7.0\ref\excercise1.dll
