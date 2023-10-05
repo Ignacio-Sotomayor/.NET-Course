@@ -1,2 +1,1 @@
-In this repository the excersises of the Microsoft .NET course will be saved
-
+Primeros ejercicios del curso .NET de Microsft
