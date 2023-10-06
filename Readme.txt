@@ -1,1 +1,1 @@
-Primeros ejercicios del curso .NET de Microsft
+Primeros ejercicios del curso C# de Microsft
